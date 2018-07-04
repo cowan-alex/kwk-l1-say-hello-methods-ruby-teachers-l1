@@ -3,6 +3,5 @@ def say_hello(name)
   puts "Hello #{name}!"
   If no name
     puts "Hello Ruby Programmer!"
-  end
 end
 
